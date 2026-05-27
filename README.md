@@ -1,4 +1,5 @@
 # EIC-community-D8
+## EEN-Connect from EIC 10.78
 
 The EIC community Drupal 8 Platform is based on OpenEuropa Drupal codebase using
 [OpenEuropa components](https://github.com/openeuropa/documentation/blob/master/docs/openeuropa-components.md). It comes
